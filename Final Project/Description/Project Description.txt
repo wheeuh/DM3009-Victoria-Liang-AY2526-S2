@@ -1,0 +1,16 @@
+﻿Takuu will sink — next month, next year.
+
+
+Takuu, as outlined in the Atlas of Remote Islands, is a sinking island — “entire pieces of land disappear overnight”. Residing off the coast of Papua New Guinea, they’re closed off, where no researcher or missionary are allowed entry. Its residents are in turmoil as their home sinks, but their approaches conflict — the elderly do not believe the island is sinking and refuse to leave it, building walls to block the sea from attacking their shores. The young, however, do not think about past or present, drinking the night away with fermented coconut palm. 
+
+
+Main inspirations: 
+ • The violence of the sea, a subversion from its usual calming presentation
+ • The conflict of its residents; old and young, stubborn and ignorant
+ • The fight against the sea is ultimately hopeless, and the desperation of the player; you keep trying (makes for perpetual, playable potential)
+
+
+Takuu, reimagined as an audio-visual interaction, consists of a webcam and projection. A ring made of particles appear, reminiscing the. As players move their hands, they manipulate the particles to move the island, adding more sand as they move. Every so often, the moon passes over the island. Upon touch, it activates a ‘party mode’; the melody becomes more techno and colours flash on screen. After the party’s over, players realise that the island had disappeared overnight, leaving them to rebuild once more. When rebuilding the island, the melody is calm, like the ocean at rest. But once there are no players detected, the melody resembles a violent sea as it rises, pulsating, and crashing into shores.
+
+
+I (Victoria) was in charge of the particles simulation interfacing with the Mediapipe hand-tracking then helped with debugging too.
